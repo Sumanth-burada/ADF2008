@@ -1,0 +1,9 @@
+{
+	"name": "2008SumanthADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "406280f0-bf97-4bdf-a993-bacba0af151e",
+		"tenantId": "cbd99c85-e412-4ea3-9c8e-c53751cc51a3"
+	}
+}
